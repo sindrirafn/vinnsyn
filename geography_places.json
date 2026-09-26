@@ -1,0 +1,932 @@
+{
+  "source": "GeoNames Iceland gazetteer (CC BY 4.0), with explicit reviewed aliases and Natural Earth 1:50m outline",
+  "places": [
+    {
+      "key": "akranes",
+      "label": "Akranes",
+      "lat": 64.32179,
+      "lon": -22.0749,
+      "region": "West Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Akranes"
+      ]
+    },
+    {
+      "key": "akureyri",
+      "label": "Akureyri",
+      "lat": 65.68353,
+      "lon": -18.0878,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Akureyri"
+      ]
+    },
+    {
+      "key": "alftanes",
+      "label": "Álftanes",
+      "lat": 64.1,
+      "lon": -22.01667,
+      "region": "Capital region",
+      "kind": "settlement",
+      "aliases": [
+        "Álftanes"
+      ]
+    },
+    {
+      "key": "arneshreppur",
+      "label": "Árneshreppur",
+      "lat": 66.06667,
+      "lon": -21.75,
+      "region": "Westfjords",
+      "kind": "municipality",
+      "aliases": [
+        "Árneshreppur"
+      ]
+    },
+    {
+      "key": "bakkafjordur",
+      "label": "Bakkafjörður",
+      "lat": 66.03772,
+      "lon": -14.79315,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Bakkafjörður"
+      ]
+    },
+    {
+      "key": "bildudalur",
+      "label": "Bíldudalur",
+      "lat": 65.6853,
+      "lon": -23.59992,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Bíldudalur"
+      ]
+    },
+    {
+      "key": "blonduos",
+      "label": "Blönduós",
+      "lat": 65.65932,
+      "lon": -20.28083,
+      "region": "Northwest Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Blönduós"
+      ]
+    },
+    {
+      "key": "bolungarvik",
+      "label": "Bolungarvík",
+      "lat": 66.15917,
+      "lon": -23.24941,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Bolungarvík"
+      ]
+    },
+    {
+      "key": "borgarbyggd",
+      "label": "Borgarbyggð",
+      "lat": 64.71446,
+      "lon": -21.23788,
+      "region": "West Iceland",
+      "kind": "municipality",
+      "aliases": [
+        "Borgarbyggð"
+      ]
+    },
+    {
+      "key": "borgarfjordur-eystri",
+      "label": "Borgarfjörður eystri",
+      "lat": 65.52548,
+      "lon": -13.80376,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Borgarfjörður (eystri)"
+      ]
+    },
+    {
+      "key": "borgarnes",
+      "label": "Borgarnes",
+      "lat": 64.53834,
+      "lon": -21.92064,
+      "region": "West Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Borgarnes"
+      ]
+    },
+    {
+      "key": "breiddalsvik",
+      "label": "Breiðdalsvík",
+      "lat": 64.79212,
+      "lon": -14.0065,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Breiðdalsvík"
+      ]
+    },
+    {
+      "key": "budardalur",
+      "label": "Búðardalur",
+      "lat": 65.10944,
+      "lon": -21.76392,
+      "region": "West Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Búðardalur"
+      ]
+    },
+    {
+      "key": "dalvik",
+      "label": "Dalvík",
+      "lat": 65.97018,
+      "lon": -18.52861,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Dalvík"
+      ]
+    },
+    {
+      "key": "djupivogur",
+      "label": "Djúpivogur",
+      "lat": 64.65713,
+      "lon": -14.28517,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Djúpivogur"
+      ]
+    },
+    {
+      "key": "drangsnes",
+      "label": "Drangsnes",
+      "lat": 65.68918,
+      "lon": -21.44353,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Drangsnes"
+      ]
+    },
+    {
+      "key": "egilsstadir",
+      "label": "Egilsstaðir",
+      "lat": 65.26687,
+      "lon": -14.39485,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Egilsstaðir"
+      ]
+    },
+    {
+      "key": "eskifjordur",
+      "label": "Eskifjörður",
+      "lat": 65.07306,
+      "lon": -14.01525,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Eskifjörður"
+      ]
+    },
+    {
+      "key": "eyrarbakki",
+      "label": "Eyrarbakki",
+      "lat": 63.86323,
+      "lon": -21.14915,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Eyrarbakki"
+      ]
+    },
+    {
+      "key": "faskrudsfjordur",
+      "label": "Fáskrúðsfjörður",
+      "lat": 64.93128,
+      "lon": -14.0189,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Fáksrúðsfjörður",
+        "Fáskrúðsfjörður"
+      ]
+    },
+    {
+      "key": "flateyri",
+      "label": "Flateyri",
+      "lat": 66.05119,
+      "lon": -23.51547,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Flateyri"
+      ]
+    },
+    {
+      "key": "fludir",
+      "label": "Flúðir",
+      "lat": 64.13428,
+      "lon": -20.32265,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Flúðir"
+      ]
+    },
+    {
+      "key": "gardabaer",
+      "label": "Garðabær",
+      "lat": 64.08865,
+      "lon": -21.92298,
+      "region": "Capital region",
+      "kind": "settlement",
+      "aliases": [
+        "Garðabær"
+      ]
+    },
+    {
+      "key": "gardur",
+      "label": "Garður",
+      "lat": 64.07055,
+      "lon": -22.6513,
+      "region": "Southern Peninsula",
+      "kind": "settlement",
+      "aliases": [
+        "Garður"
+      ]
+    },
+    {
+      "key": "grenivik",
+      "label": "Grenivík",
+      "lat": 65.95102,
+      "lon": -18.17493,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Grenivík"
+      ]
+    },
+    {
+      "key": "grindavik",
+      "label": "Grindavík",
+      "lat": 63.83849,
+      "lon": -22.43931,
+      "region": "Southern Peninsula",
+      "kind": "settlement",
+      "aliases": [
+        "Grindavík"
+      ]
+    },
+    {
+      "key": "grundarfjordur",
+      "label": "Grundarfjörður",
+      "lat": 64.92427,
+      "lon": -23.26313,
+      "region": "West Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Grundarfjörður"
+      ]
+    },
+    {
+      "key": "hafnarfjordur",
+      "label": "Hafnarfjörður",
+      "lat": 64.0671,
+      "lon": -21.93774,
+      "region": "Capital region",
+      "kind": "settlement",
+      "aliases": [
+        "Hafnarfjörður"
+      ]
+    },
+    {
+      "key": "hafnir",
+      "label": "Hafnir",
+      "lat": 63.93319,
+      "lon": -22.68212,
+      "region": "Southern Peninsula",
+      "kind": "settlement",
+      "aliases": [
+        "Hafnir"
+      ]
+    },
+    {
+      "key": "hella",
+      "label": "Hella",
+      "lat": 63.8348,
+      "lon": -20.40084,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Hella"
+      ]
+    },
+    {
+      "key": "hellissandur",
+      "label": "Hellissandur",
+      "lat": 64.91757,
+      "lon": -23.88557,
+      "region": "West Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Hellissandur"
+      ]
+    },
+    {
+      "key": "hofn",
+      "label": "Höfn",
+      "lat": 64.25388,
+      "lon": -15.21212,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Höfn",
+        "Höfn í Hornafirði"
+      ]
+    },
+    {
+      "key": "holmavik",
+      "label": "Hólmavík",
+      "lat": 65.70767,
+      "lon": -21.67065,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Hólmavík"
+      ]
+    },
+    {
+      "key": "hrisey",
+      "label": "Hrísey",
+      "lat": 65.97835,
+      "lon": -18.37777,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Hrísey"
+      ]
+    },
+    {
+      "key": "husavik",
+      "label": "Húsavík",
+      "lat": 66.04148,
+      "lon": -17.33834,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Húsavík"
+      ]
+    },
+    {
+      "key": "hvammstangi",
+      "label": "Hvammstangi",
+      "lat": 65.39711,
+      "lon": -20.94346,
+      "region": "Northwest Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Hvammstangi"
+      ]
+    },
+    {
+      "key": "hvanneyri",
+      "label": "Hvanneyri",
+      "lat": 64.56404,
+      "lon": -21.7589,
+      "region": "West Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Hvanneyri"
+      ]
+    },
+    {
+      "key": "hveragerdi",
+      "label": "Hveragerði",
+      "lat": 64.00039,
+      "lon": -21.18602,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Hveragerði"
+      ]
+    },
+    {
+      "key": "hvolsvollur",
+      "label": "Hvolsvöllur",
+      "lat": 63.75069,
+      "lon": -20.22454,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Hvolsvöllur"
+      ]
+    },
+    {
+      "key": "isafjardarbaer",
+      "label": "Ísafjarðarbær",
+      "lat": 66.07586,
+      "lon": -23.12794,
+      "region": "Westfjords",
+      "kind": "municipality",
+      "aliases": [
+        "Ísafjarðarbær"
+      ]
+    },
+    {
+      "key": "isafjordur",
+      "label": "Ísafjörður",
+      "lat": 66.07475,
+      "lon": -23.13498,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Ísafjörður"
+      ]
+    },
+    {
+      "key": "keflavik",
+      "label": "Keflavík",
+      "lat": 64.00492,
+      "lon": -22.56242,
+      "region": "Southern Peninsula",
+      "kind": "settlement",
+      "aliases": [
+        "Keflavík"
+      ]
+    },
+    {
+      "key": "keflavik-airport-area",
+      "label": "Keflavík Airport area",
+      "lat": 63.98366,
+      "lon": -22.62848,
+      "region": "Southern Peninsula",
+      "kind": "area",
+      "aliases": [
+        "Keflavíkurflugvöllur"
+      ]
+    },
+    {
+      "key": "kirkjubaejarklaustur",
+      "label": "Kirkjubæjarklaustur",
+      "lat": 63.78935,
+      "lon": -18.05273,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Kirkjubæjarklaustur"
+      ]
+    },
+    {
+      "key": "kjos",
+      "label": "Kjós",
+      "lat": 64.30644,
+      "lon": -21.49919,
+      "region": "Capital region",
+      "kind": "municipality",
+      "aliases": [
+        "Kjós"
+      ]
+    },
+    {
+      "key": "kopasker",
+      "label": "Kópasker",
+      "lat": 66.30178,
+      "lon": -16.44452,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Kópasker"
+      ]
+    },
+    {
+      "key": "kopavogur",
+      "label": "Kópavogur",
+      "lat": 64.11234,
+      "lon": -21.91298,
+      "region": "Capital region",
+      "kind": "settlement",
+      "aliases": [
+        "Kópavogur"
+      ]
+    },
+    {
+      "key": "laugar",
+      "label": "Laugar",
+      "lat": 65.72159,
+      "lon": -17.37352,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Laugar"
+      ]
+    },
+    {
+      "key": "laugarvatn",
+      "label": "Laugarvatn",
+      "lat": 64.21762,
+      "lon": -20.73386,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Laugarvatni"
+      ]
+    },
+    {
+      "key": "mosfellsbaer",
+      "label": "Mosfellsbær",
+      "lat": 64.16667,
+      "lon": -21.7,
+      "region": "Capital region",
+      "kind": "settlement",
+      "aliases": [
+        "Mosfellsbær"
+      ]
+    },
+    {
+      "key": "myvatn-area",
+      "label": "Mývatn area",
+      "lat": 65.60039,
+      "lon": -16.98502,
+      "region": "Northeast Iceland",
+      "kind": "area",
+      "aliases": [
+        "Mývatn"
+      ]
+    },
+    {
+      "key": "neskaupstadur",
+      "label": "Neskaupstaður",
+      "lat": 65.14819,
+      "lon": -13.68368,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Neskaupstaður"
+      ]
+    },
+    {
+      "key": "njardvik",
+      "label": "Njarðvík",
+      "lat": 63.9809,
+      "lon": -22.5145,
+      "region": "Southern Peninsula",
+      "kind": "settlement",
+      "aliases": [
+        "Njarðvík"
+      ]
+    },
+    {
+      "key": "olafsfjordur",
+      "label": "Ólafsfjörður",
+      "lat": 66.06722,
+      "lon": -18.64399,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Ólafsfjörður"
+      ]
+    },
+    {
+      "key": "olafsvik",
+      "label": "Ólafsvík",
+      "lat": 64.89429,
+      "lon": -23.70918,
+      "region": "West Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Ólafsvík"
+      ]
+    },
+    {
+      "key": "olfus",
+      "label": "Ölfus",
+      "lat": 63.97443,
+      "lon": -21.40008,
+      "region": "South Iceland",
+      "kind": "municipality",
+      "aliases": [
+        "Ölfus"
+      ]
+    },
+    {
+      "key": "patreksfjordur",
+      "label": "Patreksfjörður",
+      "lat": 65.59783,
+      "lon": -23.99596,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Patreksfjörður"
+      ]
+    },
+    {
+      "key": "raufarhofn",
+      "label": "Raufarhöfn",
+      "lat": 66.45429,
+      "lon": -15.9511,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Raufarhöfn"
+      ]
+    },
+    {
+      "key": "reydarfjordur",
+      "label": "Reyðarfjörður",
+      "lat": 65.03164,
+      "lon": -14.21832,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Reyðarfjörður"
+      ]
+    },
+    {
+      "key": "reykholahreppur",
+      "label": "Reykhólahreppur",
+      "lat": 65.6099,
+      "lon": -22.33324,
+      "region": "Westfjords",
+      "kind": "municipality",
+      "aliases": [
+        "Reykhólahreppur"
+      ]
+    },
+    {
+      "key": "reykholt-i-borgarfirdi",
+      "label": "Reykholt í Borgarfirði",
+      "lat": 64.66437,
+      "lon": -21.2915,
+      "region": "West Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Reykholt í Borgarfirði"
+      ]
+    },
+    {
+      "key": "reykjanesbaer",
+      "label": "Reykjanesbær",
+      "lat": 63.99813,
+      "lon": -22.56111,
+      "region": "Southern Peninsula",
+      "kind": "municipality",
+      "aliases": [
+        "Reykjanesbær"
+      ]
+    },
+    {
+      "key": "reykjavik",
+      "label": "Reykjavík",
+      "lat": 64.13548,
+      "lon": -21.89541,
+      "region": "Capital region",
+      "kind": "settlement",
+      "aliases": [
+        "Reykjavík"
+      ]
+    },
+    {
+      "key": "sandgerdi",
+      "label": "Sandgerði",
+      "lat": 64.03762,
+      "lon": -22.70799,
+      "region": "Southern Peninsula",
+      "kind": "settlement",
+      "aliases": [
+        "Sandgerði"
+      ]
+    },
+    {
+      "key": "saudarkrokur",
+      "label": "Sauðárkrókur",
+      "lat": 65.74611,
+      "lon": -19.63944,
+      "region": "Northwest Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Sauðárkrókur"
+      ]
+    },
+    {
+      "key": "selfoss",
+      "label": "Selfoss",
+      "lat": 63.93311,
+      "lon": -20.99712,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Selfoss"
+      ]
+    },
+    {
+      "key": "seltjarnarnes",
+      "label": "Seltjarnarnes",
+      "lat": 64.15309,
+      "lon": -21.99499,
+      "region": "Capital region",
+      "kind": "settlement",
+      "aliases": [
+        "Seltjarnarnes"
+      ]
+    },
+    {
+      "key": "seydisfjordur",
+      "label": "Seyðisfjörður",
+      "lat": 65.26008,
+      "lon": -14.00577,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Seyðisfjörður"
+      ]
+    },
+    {
+      "key": "siglufjordur",
+      "label": "Siglufjörður",
+      "lat": 66.15198,
+      "lon": -18.90815,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Siglufjörður"
+      ]
+    },
+    {
+      "key": "skagastrond",
+      "label": "Skagaströnd",
+      "lat": 65.82319,
+      "lon": -20.30248,
+      "region": "Northwest Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Skagaströnd"
+      ]
+    },
+    {
+      "key": "snaefellsbaer",
+      "label": "Snæfellsbær",
+      "lat": 64.86667,
+      "lon": -23.5,
+      "region": "West Iceland",
+      "kind": "municipality",
+      "aliases": [
+        "Snæfellsbær"
+      ]
+    },
+    {
+      "key": "stodvarfjordur",
+      "label": "Stöðvarfjörður",
+      "lat": 64.83296,
+      "lon": -13.87492,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Stöðvarfjörður"
+      ]
+    },
+    {
+      "key": "stokkseyri",
+      "label": "Stokkseyri",
+      "lat": 63.83788,
+      "lon": -21.0587,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Stokkseyri"
+      ]
+    },
+    {
+      "key": "stykkisholmur",
+      "label": "Stykkishólmur",
+      "lat": 65.07537,
+      "lon": -22.72977,
+      "region": "West Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Stykkishólmur"
+      ]
+    },
+    {
+      "key": "sudureyri",
+      "label": "Suðureyri",
+      "lat": 66.13041,
+      "lon": -23.52804,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Suðureyri"
+      ]
+    },
+    {
+      "key": "talknafjordur",
+      "label": "Tálknafjörður",
+      "lat": 65.62648,
+      "lon": -23.8246,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Tálknafjörður"
+      ]
+    },
+    {
+      "key": "thingeyri",
+      "label": "Þingeyri",
+      "lat": 65.87899,
+      "lon": -23.49289,
+      "region": "Westfjords",
+      "kind": "settlement",
+      "aliases": [
+        "Þingeyri"
+      ]
+    },
+    {
+      "key": "thorlakshofn",
+      "label": "Þorlákshöfn",
+      "lat": 63.85591,
+      "lon": -21.38337,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Þorlákshöfn"
+      ]
+    },
+    {
+      "key": "thorshofn",
+      "label": "Þórshöfn",
+      "lat": 66.19814,
+      "lon": -15.33679,
+      "region": "Northeast Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Þórshöfn"
+      ]
+    },
+    {
+      "key": "varmahlid",
+      "label": "Varmahlíð",
+      "lat": 65.55303,
+      "lon": -19.44609,
+      "region": "Northwest Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Varmahlíð"
+      ]
+    },
+    {
+      "key": "vestmannaeyjar",
+      "label": "Vestmannaeyjar",
+      "lat": 63.44273,
+      "lon": -20.27339,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Vestmannaeyjar"
+      ]
+    },
+    {
+      "key": "vik",
+      "label": "Vík",
+      "lat": 63.41944,
+      "lon": -19.00972,
+      "region": "South Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Vík"
+      ]
+    },
+    {
+      "key": "vogar",
+      "label": "Vogar",
+      "lat": 63.9816,
+      "lon": -22.38473,
+      "region": "Southern Peninsula",
+      "kind": "settlement",
+      "aliases": [
+        "Vogar"
+      ]
+    },
+    {
+      "key": "vopnafjordur",
+      "label": "Vopnafjörður",
+      "lat": 65.75658,
+      "lon": -14.82777,
+      "region": "East Iceland",
+      "kind": "settlement",
+      "aliases": [
+        "Vopnafjörður",
+        "Vopnaförður"
+      ]
+    }
+  ]
+}

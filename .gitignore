@@ -1,0 +1,23 @@
+# Local configuration and secrets. Keep the documented template in Git.
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node/Vite build artifacts
+web/node_modules/
+web/dist/
+web/*.tsbuildinfo
+npm-debug.log*
+
+# Operating-system and editor files
+.DS_Store
+.vscode/
